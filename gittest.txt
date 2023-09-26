@@ -1,5 +1,12 @@
 git init
 git add gittest.txt
-git commit -u origin main
+git commit -m "commit messages here" 
 made some changes
 to it
+
+you can set name using 
+git config --global user.name "Navneethram vk"
+
+if multiple names exists
+git config --global --unset-all user.name
+
